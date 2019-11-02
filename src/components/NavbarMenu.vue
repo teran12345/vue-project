@@ -1,5 +1,4 @@
 <template>
-<!-- comment -->
 <div id="navbar-menu">
     <nav class="navbar navbar-expand-sm navbar-light bg-light">
 
