@@ -1,4 +1,5 @@
 <template>
+<!-- comment -->
 <div id="navbar-menu">
     <nav class="navbar navbar-expand-sm navbar-light bg-light">
 
@@ -200,7 +201,7 @@ Vue.use(VueAxios, axios)
 }
 
 .list-group-item{
-    border:transparent;
+  border:transparent;
 
 
 
